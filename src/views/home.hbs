@@ -10,27 +10,19 @@
                     animals with respect, empathy and understanding.</h3>
             </section>
 
+            
             <section id="last-added">
+                {{#if animals}}
+                {{#each animals}}
                 <div>
-                    <img src="/images/animal4.jpg">
-                    <p>Name: Blue</p>
-                    <p>Need of: Medicine</p>
-                    <a class="details-btn" href="#">Details</a>
+                    <img src="{{image}}">
+                    <p>Name: {{name}}</p>
+                    <p>Need of: {{need}}</p>
+                    <a class="details-btn" href="/posts/{{_id}}/details">Details</a>
                 </div>
-                <div>
-                    <img src="/images/animal5.webp">
-                    <p>Name: Rikky</p>
-                    <p>Need of: Food</p>
-                    <a class="details-btn" href="#">Details</a>
-                </div>
-                <div>
-                    <img src="/images/animla6.jpg">
-                    <p>Name: Wenny</p>
-                    <p>Need of: Money for operation</p>
-                    <a class="details-btn" href="#">Details</a>
-                </div>
-
-                <!--  <p class="no-post">There are no animals in need!</p> -->
-
+                {{/each}}
+                {{else}}
+                <p class="no-post">There are no animals in need!</p>
+                {{/if}}
             </section>
         </main>

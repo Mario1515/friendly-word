@@ -23,14 +23,14 @@
             <nav>
                 <div>
                     <a href="/">Home</a>
-                    <a href="#">Dashboard</a>
-                    <a href="#">Search</a>
+                    <a href="/posts/all">Dashboard</a>
+                    <a href="/posts/search">Search</a>
                 </div>
 
                 <!-- Logged-in users -->
                 {{#if isAuthenticated}}
                 <div class="user">
-                    <a href="#">Add Animal</a>
+                    <a href="/posts/create">Add Animal</a>
                     <a href="/users/logout">Logout</a>
                 </div>
                  {{else}}
@@ -46,7 +46,7 @@
         {{{body}}}
 
         <footer>
-            <p>@Friendly World</p>
+            <p>@Mario Petkov / Software University Project </p>
         </footer>
     </div>
 </body>

@@ -7,6 +7,7 @@ This project is an Animal Rescue Web Application built with Node.js, Express, Mo
 ### Project Vision:
 
 The Animal Rescue Web Application is a fundraising project created by me to support animal rescue efforts. The vision behind this project is to provide a platform where users can easily create and manage rescue posts, raise funds, and facilitate the adoption of animals in need. 
+
 ![image](https://github.com/user-attachments/assets/8ffa3f55-7f6b-4d75-a71e-c9d2e9b65968)
 
 ![image](https://github.com/user-attachments/assets/6bf708e5-8439-49be-a8a8-dbe67c5e6609)

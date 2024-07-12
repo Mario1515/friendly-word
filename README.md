@@ -1,4 +1,4 @@
-#### Friendly World -> Fundraising platform
+# Friendly World -> Fundraising platform
 
 ## About The Project - Non-technical Description
 

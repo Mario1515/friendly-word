@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c1cb8f50-4480-4003-b0ee-af88689df32c)![image](https://github.com/user-attachments/assets/a325a941-5e62-4a68-9259-6f2538544ca0)# Friendly World -> Fundraising platform
+### Friendly World -> Fundraising platform
 
 ## About The Project - Non-technical Description
 

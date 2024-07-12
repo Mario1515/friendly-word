@@ -16,7 +16,7 @@ The Animal Rescue Web Application is a **fundraising project** created by me to 
 
 The project is constructed with the following technologies:
 
-## Technologies Used
+## Tech Stack
 
 - **Node.js**: Server-side JavaScript runtime.
 - **Express**: Web framework for Node.js.

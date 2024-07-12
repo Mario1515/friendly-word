@@ -26,7 +26,7 @@ The project is constructed with the following technologies:
 - **bcrypt**: Password hashing.
 - **jsonwebtoken**: JWT implementation.
 - **cookie-parser**: Cookie parsing middleware.
-- 
+  
 ## Installation:
 
 Navigate to the "src" folder in your terminal.
